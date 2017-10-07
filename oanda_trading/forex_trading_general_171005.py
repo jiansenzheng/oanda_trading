@@ -42,8 +42,8 @@ import statsmodels.tsa.stattools as ts
 from warningOps import warning
 from seriesADF import getADF
 
-corpid=  'wxf8ba6658b456540b'
-secret='f78XFqKjNnNJF8Mpkb3BVh4BMpa-vbChBWMHu653KjFL0-mqT67lDQlt5YaEeD6w'
+corpid=  ''
+secret=''
 warn = warning(corpid,secret)
 
 #------the only line we need to change is about the instruments----#
