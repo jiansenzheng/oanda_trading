@@ -10,7 +10,7 @@ Oanda\_trading is an open-sourced software written in Python to perform algorimi
 5. create the database and collections mentioned in the main script(*forex_trading_general_171005.py*) in MongoDB.
 5. Open a terminal enter the same directory of these python scripts, and start to run the trading program as below,
 
-`python forex\_trading\_general\_171005.py`
+`python forex_trading_general_171005.py`
 
 6. Now you can check the trading signal logs in the log file, and implement your own trading strategy in the main script.
 ### Prerequisites
@@ -30,7 +30,7 @@ List of Python libraries needed:
 
 ### Installing
 
-No installation required so far.
+No installation is required so far for this trading library.
 
 ---
 
