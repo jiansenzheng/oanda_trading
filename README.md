@@ -50,6 +50,7 @@ Gona make the Wiki page soon:)
 
 * **Jiansen Zheng** - [LinkedIn](https://www.linkedin.com/in/jiansen-zheng-b1a10a33/)
 
+jiansenzheng@gmail.com
 
 ## License
 
