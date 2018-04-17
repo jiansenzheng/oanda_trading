@@ -61,6 +61,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 * Inspired by Michael Halls-Moore from quantstart.com
 
-## Donation
+## Bitcoin Donation
 
-* BTC donation address: 35TkyWD4Vwp66hX8b8U8stABSDyW3pcCS1 
+* If you would like to support my project, please consider donating to this address: 35TkyWD4Vwp66hX8b8U8stABSDyW3pcCS1 
