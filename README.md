@@ -2,6 +2,7 @@
 
 Oanda\_trading is an open-sourced software written in Python to perform algorimic trading with Oanda API. We apply the multithreading framework to handle the market data streaming, trading signal calculation, and order sending. 
 
+![alt text](https://github.com/jiansenzheng/oanda_trading/blob/master/trading_system_front-end.png)
 ## Getting Started
 1. Obtain the access token and account ID from the official website of [OANDA](https://www.oanda.com/).
 2. Install MongoDB(v3.2.4), start it as system service.
